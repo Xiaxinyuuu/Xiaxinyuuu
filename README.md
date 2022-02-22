@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Second-year CS student at  University
-- Competitive Programming enthusiast, Codeforces: [Thallium54](https://codeforces.com/profile/Thallium54)
+- Second-year CS student at Changchun Industrial University
 - Linux user, vim user
 - Programming languages: Python, Java, Go
 
