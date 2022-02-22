@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- Second-year CS student at  University
+- Competitive Programming enthusiast, Codeforces: [Thallium54](https://codeforces.com/profile/Thallium54)
+- Linux user, vim user
+- Programming languages: Python, Java, Go
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThinyuXia&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThinyuXia&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
