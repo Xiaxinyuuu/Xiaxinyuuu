@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - Second-year CS student at Changchun Industrial University
 - Programming languages: Java, Python, Go
-- Linux user, vim user
+- linux user, vim user
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThinyuXia&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
