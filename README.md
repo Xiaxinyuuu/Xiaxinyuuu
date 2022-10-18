@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- Second-year CS student at Changchun Industrial University
+- Third-year CS student at Changchun Industrial University
 - Programming languages: Java, Python, Go
 - linux user, vim user
 
