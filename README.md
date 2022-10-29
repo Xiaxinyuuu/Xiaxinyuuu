@@ -24,4 +24,3 @@ Here are some ideas to get you started:
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ThinyuXia&layout=compact&theme=algolia&hide=html,css,JavaScript" />
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThinyuXia&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
