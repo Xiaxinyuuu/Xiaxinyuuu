@@ -7,7 +7,6 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThinyuXia&layout=compact&theme=algolia&hide=html,css,JavaScript" />
 <br/>
-<br/>
 
 ### 🏫 Third-year CS student at Changchun Industrial University
 ### 🔮 Programming languages: Java, Python, Go
