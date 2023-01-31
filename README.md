@@ -9,7 +9,7 @@
 
 
 ### 🏫 Third-year CS student at Changchun Industrial University
-### 🔮 Programming languages: Java, Python, Go
+### 🔮 Programming languages: Java, Python, C ++
 ### 🔆 linux user, vim user, docker user...
 ### ⛹️‍♀️ Technology: SpringBoot,MySQL,Redis...
 
