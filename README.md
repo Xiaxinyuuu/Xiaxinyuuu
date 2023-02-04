@@ -8,7 +8,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaxinyuuu&layout=compact&theme=algolia&hide=html,css,JavaScript" />
 
 
-### 🏫 Third-year CS student at Changchun Industrial University
+### 🏫 Third-year CS student at Changchun University of Technology
 ### 🔮 Programming languages: Java, Python, C ++
 ### 🔆 linux user, vim user, docker user...
 ### ⛹️‍♀️ Technology: SpringBoot,MySQL,Redis...
