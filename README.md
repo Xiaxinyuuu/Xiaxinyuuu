@@ -5,9 +5,8 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Xiaxinyuuu&theme=prussian&show_icons=true&count_private=true&hide=contribs,issues" />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaxinyuuu&layout=compact&theme=algolia&hide=html,css,JavaScript" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaxinyuuu&layout=compact&theme=algolia&hide=html,css,JavaScript" />
 
-<br />
 ### 🏫 Third-year CS student at Changchun University of Technology
 ### 🔮 Programming languages: Java, Python, C ++
 ### 🔆 linux user, vim user, docker user...
