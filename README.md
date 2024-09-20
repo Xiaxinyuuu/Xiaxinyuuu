@@ -16,8 +16,8 @@
 <br/>
 
 
-### 🏫 Third-year CS student at Changchun University of Technology
-### 🔮 Programming languages: Java, Python, C ++
-### 🔆 linux user, vim user, docker user...
-### ⛹️‍♀️ Technology: SpringBoot,MySQL,Redis...
 
+### 👨‍💻 R&D Engineer at Baidu
+### 🔮 Programming languages: C++, Java, Python
+### 🔆 Linux user, Vim enthusiast, Docker adept...
+### 🚀 Technology Stack: SpringBoot, MySQL, Redis, and more for cutting-edge projects
