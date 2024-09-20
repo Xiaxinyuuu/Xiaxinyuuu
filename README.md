@@ -20,4 +20,4 @@
 ### 👨‍💻 R&D Engineer at Baidu
 ### 🔮 Programming languages: C++, Java, Python
 ### 🔆 Linux user, Vim enthusiast, Docker adept...
-### 🚀 Technology Stack: SpringBoot, MySQL, Redis, and more for cutting-edge projects
+### 🚀 Technology Stack: SpringBoot, PostgreSql, and more for cutting-edge projects
